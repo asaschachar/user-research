@@ -1,6 +1,4 @@
-const optimizelySdk = require('@optimizely/optimizely-sdk')
 const express = require('express');
-const request = require('request-promise')
 const morgan = require('morgan')
 const cookieParser = require('cookie-parser')
 
